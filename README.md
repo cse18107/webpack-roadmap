@@ -8,21 +8,21 @@ From 🚀 **Zero to Hero** – A complete learning path to become a **top-level 
 
 ### 📚 Core Concepts
 - [X] What is a bundler and why Webpack?
-- [ ] Webpack architecture (entry → loaders → plugins → output)
-- [ ] Webpack config (`webpack.config.js`) structure
+- [X] Webpack architecture (entry → loaders → plugins → output)
+- [X] Webpack config (`webpack.config.js`) structure
 
 ### ✅ Skills to Learn
-- [ ] `entry`, `output`, `mode`
-- [ ] Loaders (e.g. `babel-loader`, `style-loader`, `css-loader`)
-- [ ] Plugins (e.g. `HtmlWebpackPlugin`, `DefinePlugin`)
-- [ ] Asset management (images, fonts, CSS)
-- [ ] Source maps
-- [ ] `webpack-dev-server`
+- [X] `entry`, `output`, `mode`
+- [X] Loaders (e.g. `babel-loader`, `style-loader`, `css-loader`)
+- [X] Plugins (e.g. `HtmlWebpackPlugin`, `DefinePlugin`)
+- [X] Asset management (images, fonts, CSS)
+- [X] Source maps
+- [X] `webpack-dev-server`
 
 ### 🛠 Projects
-- [ ] Set up a basic React app from scratch with Webpack
-- [ ] Manually configure Babel + Webpack
-- [ ] Add support for CSS and images
+- [X] Set up a basic React app from scratch with Webpack
+- [X] Manually configure Babel + Webpack
+- [X] Add support for CSS and images
 
 ---
 
