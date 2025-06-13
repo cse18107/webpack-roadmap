@@ -7,7 +7,7 @@ From 🚀 **Zero to Hero** – A complete learning path to become a **top-level 
 ## 🟢 Stage 1: Junior Level – Webpack Basics
 
 ### 📚 Core Concepts
-- [ ] What is a bundler and why Webpack?
+- [ X ] What is a bundler and why Webpack?
 - [ ] Webpack architecture (entry → loaders → plugins → output)
 - [ ] Webpack config (`webpack.config.js`) structure
 
